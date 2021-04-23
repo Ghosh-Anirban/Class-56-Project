@@ -1,0 +1,16 @@
+body {
+background-color: azure;
+}
+.img-section {
+display: flex;
+justify-content: center;
+}
+
+.img-style {
+margin-right: 25px;
+margin-left: 25px;
+}
+img {
+width: 400px;
+height: 400px;
+}
